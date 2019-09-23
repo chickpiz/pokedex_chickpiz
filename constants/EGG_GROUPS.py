@@ -1,3 +1,4 @@
+# coding=UTF-8
 # EGG_GROUPS.py
 UNDISCOVERED = 0
 DITTO = 1
